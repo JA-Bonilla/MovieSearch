@@ -1,5 +1,9 @@
 Search for your favorite movies and get some information about them including the year, rating, and runtime!
 
+## See It Live!
+
+https://movie-search-jbonilla.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
