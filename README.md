@@ -1,4 +1,4 @@
-Search for your favorite movies and get some information about them including the year, rating, and runtime!
+Search for your favorite movies and get some information about them including the year, type, and titles!
 
 ## See It Live!
 
